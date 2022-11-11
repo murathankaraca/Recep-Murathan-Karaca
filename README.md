@@ -2,7 +2,7 @@
 
 <p align="left"> 
 <!-- 
-<img src="https://komarev.com/ghpvc/?username=murat-atalik&label=Profile%20views&color=0e75b6&style=flat" alt="murat-atalik" /> -->
+<img src="https://komarev.com/ghpvc/?username=murathankaraca&label=Profile%20views&color=0e75b6&style=flat" alt="murathankaraca" /> -->
 <h3 align="center">frontend developer from Turkey</h3>
 <br/>
 
@@ -21,8 +21,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/recep-murathan-karaca-a1599aa9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="murat-atalik" height="30"  /></a>
-<a href="https://www.instagram.com/rmurathankaraca/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="murat-atalik" height="30" /></a>
+<a href="https://www.linkedin.com/in/recep-murathan-karaca-a1599aa9/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="murathankaraca" height="30"  /></a>
+<a href="https://www.instagram.com/rmurathankaraca/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="murathankaraca" height="30" /></a>
 <a target="_blank" href="https://t.me/murathankaraca">
 <img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="telegram" height="30" /></a>
 
@@ -92,7 +92,7 @@
 </a>
 <a href="https://git-scm.com/" target="_blank"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://github.com/murat-atalik" target="_blank"> 
+<a href="https://github.com/murathankaraca" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
 </a> 
 <a href="https://code.visualstudio.com" target="_blank"> 
@@ -110,8 +110,8 @@
 ### 📊 GitHub Analytics
 <p align="center">
 <a href="https://github.com/murathankaraca">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=murat-atalik&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="murathankaraca"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-atalik&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="murathankaraca"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=murat-atalik&theme=algolia" alt="murathankaraca" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=murathankaraca&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="murathankaraca"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murathankaraca&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="murathankaraca"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=murathankaraca&theme=algolia" alt="murathankaraca" />
 </a>
 </p>
