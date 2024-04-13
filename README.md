@@ -3,12 +3,12 @@
 <p align="left"> 
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=murathankaraca&label=Profile%20views&color=0e75b6&style=flat" alt="murathankaraca" /> -->
-<h3 align="center">android developer from Turkey</h3>
+<h3 align="center">web developer from Turkey</h3>
 <br/>
 
 ---
 
-- 🌱 I’m currently learning Dart(Flutter)/ 
+- 🌱 I’m currently learning React/ 
 - ⚡ Fun fact: I love playing computer games and swimming./
 
 - 📫 How to reach me **murathan.1999@gmail.com**
