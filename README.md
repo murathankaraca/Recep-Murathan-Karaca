@@ -3,7 +3,7 @@
 <p align="left"> 
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=murathankaraca&label=Profile%20views&color=0e75b6&style=flat" alt="murathankaraca" /> -->
-<h3 align="center">web developer from Turkey</h3>
+<h3 align="center">web IOS developer from Türkiye</h3>
 <br/>
 
 ---
