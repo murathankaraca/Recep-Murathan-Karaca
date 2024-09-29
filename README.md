@@ -8,7 +8,7 @@
 
 ---
 
-- 🌱 I’m currently learning Swift 5
+- 🌱 I’m currently learning Swift 6
 - ⚡ Fun fact: I love playing computer games and swimming./
 
 - 📫 How to reach me **murathan.1999@gmail.com**
